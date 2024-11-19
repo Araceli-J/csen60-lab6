@@ -14,3 +14,5 @@ Lab4 just gived the output directly to the client
 Lab4 depends on the browswer
 Lab6 runs on the server 
 Lab4 has no security and Lab6 has more security
+
+link: https://docs.google.com/document/d/18PaApzmiUMqr5OvIfq___bpLSOZeXiMp_cKUFWJs4Uw/edit?usp=sharing
